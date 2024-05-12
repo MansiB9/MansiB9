@@ -2,17 +2,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Mansi Borole</h1>
-<h3 align="center">A Passionate Full Stack Developer and UI/UX Designer from India</h3>
+<h3 align="center">A Passionate Cloud and DevOps Engineer from India</h3>
 
 <img  align ="right" alt="Coding" width="400" radius="45" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MansiB9&label=Profile%20views&color=0e75b6&style=flat" alt="MansiB9" /> </p>
 
-- 🔭 I’m currently working on **Door to Door Services**
+- 🔭 I’m currently working on **Cloud and DevOps**
 
-- 🌱 I’m currently learning **NextJs, ViteJs, Aws Services**
+- 🌱 I’m currently learning **Aws, Python, Linux, Ansible, Terraform, Jenkins, Docker, Kubernetes**
 
-- 💬 Ask me about **Html & CSS,JavaScript,ReactJs, nodeJs, Redux, Figma ,Adobe Illustrator**
+- 💬 Ask me about **Html & CSS, JavaScript, ReactJs, nodeJs, Redux, Figma ,Adobe Illustrator**
 
 - 📫 How to reach me **borolemansi894@gmail.com**
 
