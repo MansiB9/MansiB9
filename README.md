@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Aws, Python, Linux, Ansible, Terraform, Jenkins, Docker, Kubernetes**
 
-- 💬 Ask me about **Html & CSS, JavaScript, ReactJs, nodeJs, Redux, Figma ,Adobe Illustrator**
+- 💬 Ask me about **Html & CSS, JavaScript, ReactJs, nodeJs, Redux, Figma , Adobe Illustrator**
 
 - 📫 How to reach me **borolemansi894@gmail.com**
 
